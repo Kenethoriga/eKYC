@@ -44,7 +44,7 @@ To prevent spoofing with photos or video replays, users must perform live action
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/pankajMahanto/eKYC
+git clone https://github.com/kenethoriga/eKYC
 cd eKYC
 pip install -r requirements.txt
 ```
